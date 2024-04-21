@@ -1,8 +1,8 @@
 ﻿using System;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 using Birdhouse.Tools.Ticks.Interfaces;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public class SlicedTickProvider 
         : ITickProvider

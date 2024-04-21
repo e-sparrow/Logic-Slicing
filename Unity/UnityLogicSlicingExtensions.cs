@@ -1,12 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using Birdhouse.Features.LogicSlicing;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing;
+using Birdhouse.LogicSlicing.Interfaces;
 using Birdhouse.Tools.Coroutines;
 using Birdhouse.Tools.Coroutines.Interfaces;
 using Birdhouse.Tools.Coroutines.Unity;
 
-namespace Birdhouse.Extended.LogicSlicing.Unity
+namespace Birdhouse.LogicSlicing.Unity
 {
     public static class UnityLogicSlicingExtensions
     {

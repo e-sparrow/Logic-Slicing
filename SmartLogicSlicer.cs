@@ -4,13 +4,13 @@ using System.Linq;
 using Birdhouse.Common.Extensions;
 using Birdhouse.Common.Mathematics.Average;
 using Birdhouse.Common.Mathematics.Average.Interfaces;
-using Birdhouse.Features.LogicSlicing.Interfaces;
 using Birdhouse.Features.Registries;
 using Birdhouse.Features.Registries.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 using Birdhouse.Tools.Tense;
 using Birdhouse.Tools.Tense.Providers.Interfaces;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public class SmartLogicSlicer<TKey> 
         : ISmartLogicSlicer<TKey>

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public class OrderedLogicSlicer : IOrderedLogicSlicer
     {

@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
-using Birdhouse.Extended.LogicSlicing.Unity;
-using Birdhouse.Features.LogicSlicing.Unity;
+using Birdhouse.LogicSlicing.Unity;
 using Birdhouse.Tools.Coroutines;
 using Birdhouse.Tools.Coroutines.Instructions;
 using Birdhouse.Tools.Coroutines.Interfaces;
 using UnityEngine;
 using UnityEngine.PlayerLoop;
 
-namespace Birdhouse.Features.LogicSlicing.Samples
+namespace Birdhouse.LogicSlicing.Samples
 {
     public class SlicedCoroutineSample : MonoBehaviour
     {

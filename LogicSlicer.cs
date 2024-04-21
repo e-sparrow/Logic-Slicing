@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using Birdhouse.Common.Extensions;
-using Birdhouse.Features.LogicSlicing.Interfaces;
 using Birdhouse.Features.Registries;
 using Birdhouse.Features.Registries.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public class LogicSlicer : ILogicSlicer
     {

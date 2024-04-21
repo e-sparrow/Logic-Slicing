@@ -1,10 +1,10 @@
 ﻿using System;
-using Birdhouse.Features.LogicSlicing.Interfaces;
-using Birdhouse.Features.LogicSlicing.Unity;
+using Birdhouse.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Unity;
 using UnityEngine;
 using UnityEngine.PlayerLoop;
 
-namespace Birdhouse.Features.LogicSlicing.Samples
+namespace Birdhouse.LogicSlicing.Samples
 {
     public abstract class SlicedLogicBehaviourSample
         : MonoBehaviour

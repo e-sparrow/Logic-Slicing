@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using Birdhouse.Features.LogicSlicing;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing;
+using Birdhouse.LogicSlicing.Interfaces;
 
-namespace Birdhouse.Extended.LogicSlicing.Unity
+namespace Birdhouse.LogicSlicing.Unity
 {
     public static class UnitySlicedLogicProvider
     {

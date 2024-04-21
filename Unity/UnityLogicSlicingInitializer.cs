@@ -1,4 +1,4 @@
-﻿namespace Birdhouse.Features.LogicSlicing.Unity
+﻿namespace Birdhouse.LogicSlicing.Unity
 {
     public class UnityLogicSlicingInitializer
     {

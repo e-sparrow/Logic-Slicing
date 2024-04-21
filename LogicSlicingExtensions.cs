@@ -1,7 +1,7 @@
 ﻿using System;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public static class LogicSlicingExtensions
     {

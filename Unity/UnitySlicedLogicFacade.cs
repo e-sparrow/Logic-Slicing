@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public class UnitySlicedLogicFacade 
         : UnitySlicedLogicFacadeBase

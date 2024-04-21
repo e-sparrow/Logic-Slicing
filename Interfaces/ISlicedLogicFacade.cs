@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Birdhouse.Features.LogicSlicing.Interfaces
+namespace Birdhouse.LogicSlicing.Interfaces
 {
     public interface ISlicedLogicFacade : IDisposable
     {

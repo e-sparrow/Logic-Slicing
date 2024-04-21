@@ -1,11 +1,11 @@
 ﻿using System;
 using Birdhouse.Common.Collections;
 using Birdhouse.Common.Collections.Interfaces;
-using Birdhouse.Features.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Interfaces;
 using Birdhouse.Tools.UnityMessages;
 using UnityEngine.LowLevel;
 
-namespace Birdhouse.Features.LogicSlicing.Unity
+namespace Birdhouse.LogicSlicing.Unity
 {
     public static class UnityLogicSlicingHelper
     {

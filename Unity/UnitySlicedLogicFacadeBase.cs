@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using Birdhouse.Abstractions.Disposables;
 using Birdhouse.Common.Extensions;
-using Birdhouse.Features.LogicSlicing.Interfaces;
-using Birdhouse.Features.LogicSlicing.Unity;
+using Birdhouse.LogicSlicing.Interfaces;
+using Birdhouse.LogicSlicing.Unity;
 
-namespace Birdhouse.Features.LogicSlicing
+namespace Birdhouse.LogicSlicing
 {
     public abstract class UnitySlicedLogicFacadeBase
         : ISlicedLogicFacade
